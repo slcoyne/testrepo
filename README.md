@@ -6,4 +6,6 @@ A JPEG is included.
 
 forked from Dr. McGee's 6306 repo.
 git@github.com:slcoyne/stat6306introdatascience.git
+https://github.com/slcoyne/stat6306introdatascience
+
 
